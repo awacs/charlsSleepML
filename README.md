@@ -18,7 +18,11 @@ hmm_para.py 和 hmm_para_timevar.py 涉及 hmm parameter retraining.
 
 ## 制图
 Figure 1 code: qc.py
+
 Figure 2 code: windowsize.py
+
 Figure 3 code: fig6A.py
+
 Figure 4 code: Excel 
+
 Figure 5 code: histogram.py
